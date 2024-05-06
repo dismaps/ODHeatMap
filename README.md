@@ -1,4 +1,4 @@
-ODHeatMap**: A Global Open Data District Heating Model (v1.1)
+ODHeatMap: A Global Open Data District Heating Model (v1.1)
 ---
 Regarding the tool:
   * The objective of the tool is to *extract building footprints to calculate building surface area, and with that estimate buildings heat demand to assess District Heating feasibility.* **All of this using open data.**
