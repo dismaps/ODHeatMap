@@ -19,8 +19,9 @@ Regarding the tool:
 
 > Step 4: Estimating District Heating (DH) potential at an aggregated grid level.
 
-![Workflow] (ODHeatMap_workflow_SKETCH3.png)
+![Workflow](ODHeatMap_workflow_SKETCH3.png)
 
 * Software considerations:
-> The tool is written in a set of steps that guide and ask the user for inputs and the outputs are saved in the notebook content directory when running the tool.
+> The tool is written in a set of steps that guide and provides choices for each of them.
+> The outputs are saved in the notebook content directory when running the tool.
 > The default geographical file format utilized in the code is GeoPackage (.gpkg) as to optimize the outputs handling compatibility of GIS and non-GIS software.
