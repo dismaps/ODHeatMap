@@ -11,10 +11,16 @@ Regarding the tool:
 ---
 * Overview of the tool's workflow:
 
-> Step 1: Retrieving building foorprints as data input for the rest of the workflow.
+> Step 1: Retrieving building footprints as data input for the rest of the workflow.
 
 > Step 2: Estimating the buildings envelope as surface area input.
 
 > Step 3: Estimating the heating demand at a building level.
 
 > Step 4: Estimating District Heating (DH) potential at an aggregated grid level.
+
+
+
+* Software considerations:
+> The tool is written in a set of steps that guide and ask the user for inputs and the outputs are saved in the notebook content directory when running the tool.
+> The default geographical file format utilized in the code is GeoPackage (.gpkg) as to optimize the outputs handling compatibility of GIS and non-GIS software.
