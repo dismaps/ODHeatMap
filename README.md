@@ -5,7 +5,7 @@ Regarding the tool:
   * The model is particularly useful when lacking data availability and accesibility.
   * It is set up as a 4 step workflow and the script allows for user flexibility and adaptability of the code.
   * All temporary outputs are saved in this notebook content directory: "/content/" and all geodata files are in GeoPackage format (.gpkg)
-* For more information on the tool, visit the paper [in reviewing process]
+* For more information on the tool, visit the paper [paper](<http://doi.org/10.54337/ijsepm.8812>)
 * Help us improving the tool by sending comments via email [email](<'diana@plan.aau.dk'>)
 * Check out more about the [Sustainable Energy Planning and Management](https://www.en.aau.dk/education/master/urban-energy-and-environmental-planning/sustainable-energy-planning-management) group  at [AAU](https://www.en.aau.dk/)
 ---
